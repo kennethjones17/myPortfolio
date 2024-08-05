@@ -4,12 +4,14 @@ import { TextGenerateEffect } from './ui/TextGenerateEffect'
 import MagicButton from './ui/MagicButton'
 import { FaLocationArrow } from 'react-icons/fa';
 import { FaDownload } from 'react-icons/fa';
-
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 
 const Hero = () => {
   return (
+    
     <div className='pb-20 pt-36'>
+      <SpeedInsights/>
       <div>
         <Spotlight className=" -top-40 -left-10
         md:-left-32 md:-top-20 h-screen" fill="white" />
@@ -57,7 +59,7 @@ const Hero = () => {
             download
             className='inline-flex items-center'
             title='Download my resume'
-          >
+          > 
             <MagicButton
               title='Download my resume'
               icon={<FaDownload />}
