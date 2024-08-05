@@ -42,6 +42,16 @@ const Hero = () => {
           <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
           Cloud & Software developer driving innovation for businesses
           </p>
+
+             {/* Picture of User */}
+          <div className='flex relative mb-6'>
+            <img
+              src='/profilepic.jpeg' // Update with the actual path to your picture
+              alt='Profile'
+              className='w-50 h-50 rounded-full border-4 border-pruple-100 bg-black-200'
+            />
+          </div>
+
           <a
             href='/data/RESUME_v2.7.2.pdf'
             download

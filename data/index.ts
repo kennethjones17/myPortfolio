@@ -100,7 +100,7 @@ export const navItems = [
       des: "A Regression model to predict individual salaries based on relevant factors like experience, education, and job role. The basic aim was to improve salary negotiation and HR decision-making.",
       img: "/SPM1.png",
       iconLists: ["/python.svg"],
-      link: "https://github.com/adrianhajdin/iphone",
+      link: "https://github.com/kennethjones17/Salary-Prediction-Model-using-Regression",
     },
   ];
   
