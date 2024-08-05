@@ -9,7 +9,7 @@ const Approach = () => {
   return (
     <section className="w-full py-20">
         <h1 className="heading">
-            My <span className="text-purple"> Why am I Different? </span>
+            Why am <span className="text-purple">I </span>Different?
         </h1>
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center w-full gap-4">
         <Card 
