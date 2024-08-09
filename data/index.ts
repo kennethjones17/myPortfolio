@@ -18,9 +18,9 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "I love tackling complex problems and am always eager to learn more about the latest advancements in tech.",
+      title: "I excel at solving complex challenges and continuously seek to stay ahead in the latest tech advancements",
       description: "",
-      className: "lg:col-span-2 md:col-span-3 md:row-span-2",
+      className: "lg:col-span-2 md:col-span-3 md:row-span-2 ",
       imgClassName: "",
       titleClassName: "justify-start",
       img: "",
@@ -111,12 +111,12 @@ export const navItems = [
       name: "Deepak VR",
       title: "Co-CTO of EasyEcom",
     },
-    // {
-    //   quote:
-    //     "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    //   name: "Michael Johnson",
-    //   title: "Director of AlphaStream Technologies",
-    // },
+    {
+      quote:
+        "I highly recommend Kenneth Jones, with whom I had the pleasure of working closely on an academic project. Kenneth's exceptional problem-solving skills and proactive approach were critical in overcoming unexpected challenges and keeping the project on schedule. His leadership, collaborative spirit, and willingness to take initiative significantly contributed to our team's success. Kenneth's approachable personality made teamwork seamless and enjoyable. I am confident he will be an asset in any role he takes on.",
+      name: "Abhishek Siddant",
+      title: "Colleague at SIT",
+    },
     // {
     //   quote:
     //     "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
