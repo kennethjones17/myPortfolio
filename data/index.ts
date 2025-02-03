@@ -8,7 +8,7 @@ export const navItems = [
   export const gridItems = [
     {
       id: 1,
-      title: "Expert in Python, Java, SQL, and data analysis. Specializing in software development, data visualization, and algorithm design.",
+      title: "An Expert in Python, Java, SQL, and data analysis. Specializing in software development, data visualization, and algorithm design.",
       description: "",
       className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
       imgClassName: "w-full h-full",
