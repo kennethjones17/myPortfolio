@@ -55,7 +55,7 @@ const Hero = () => {
           </div>
 
           <a
-            href='/data/RESUME_v3.pdf'
+            href='/data/Kenneth Jones Resume.pdf'
             download
             className='inline-flex items-center'
             title='Download my resume'
